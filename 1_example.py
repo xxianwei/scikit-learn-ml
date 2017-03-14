@@ -13,6 +13,8 @@ from matplotlib.font_manager import FontProperties
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
+##勤学苦练
+
 ##指定字体(可以从windos上拷贝过来使用。当前使用微软雅黑)
 font = FontProperties(fname=r"./fonts/msyh.ttf", size=10)
 ##学习了画图基础、score含义、方差、均值、协方差等计算。以及模型系数、截距（bais）等。
